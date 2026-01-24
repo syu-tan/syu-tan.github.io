@@ -197,6 +197,19 @@ section h2 span {
 	padding-bottom: 80px;
 }
 
+.innerS .intro,
+.job-form {
+	text-align: center;
+}
+
+.job-form img {
+	display: block;
+	width: 90%;
+	max-width: 520px;
+	height: auto;
+	margin: 0 auto;
+}
+
 
 /* SEC02 Gallery
 ------------------------------------------------------------*/
